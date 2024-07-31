@@ -12,3 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ** Install daisyUI
 - Create cards
 - Create forms
+- Prisma
+- Tanstack query
+- Axios
+- 
